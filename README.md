@@ -6,10 +6,10 @@
 | BlinkFeeReceiver   | [0x8BD4c4B20C5d22b8de701cba2Cf15ACeC93b2Df8](https://blastscan.io/address/0x8BD4c4B20C5d22b8de701cba2Cf15ACeC93b2Df8) |
 
 ### Official links:
-[1. Blinkswap](https://blinkswap.xyz/)
-[2. Blinkswap App](https://app.blinkswap.xyz/)
-[3. Blinkswap Docs](https://docs.blinkswap.xyz/)
-[4. Blinkswap Twitter](https://x.com/blinkswap)
+[Blinkswap](https://blinkswap.xyz/) 
+[Blinkswap App](https://app.blinkswap.xyz/) 
+[Blinkswap Docs](https://docs.blinkswap.xyz/) 
+[Blinkswap Twitter](https://x.com/blinkswap)
 
 #### Blink uses the revolutionary idea of ​​points calculating
 Аll data is stored on-chain and can be viewed directly on the blockchain. All information about points is open-source. 
@@ -56,7 +56,7 @@ Install Foundry
 ```
 https://book.getfoundry.sh/
 ```
-To utilize the contracts and deploy to a local testnet, you can install the code in your repo with forge:
+To utilize the contracts and deploy to a local testnet, you can build the code in your repo with forge:
 ```
 forge build
 ```
